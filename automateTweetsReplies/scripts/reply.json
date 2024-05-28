@@ -1,0 +1,131 @@
+{
+    "data": {
+        "create_tweet": {
+            "tweet_results": {
+                "result": {
+                    "rest_id": "1792152083472523667",
+                    "core": {
+                        "user_results": {
+                            "result": {
+                                "__typename": "User",
+                                "id": "VXNlcjo3NDQ4ODkwNjMyNzUxMTg1OTI=",
+                                "rest_id": "744889063275118592",
+                                "affiliates_highlighted_label": {},
+                                "has_graduated_access": true,
+                                "is_blue_verified": false,
+                                "profile_image_shape": "Circle",
+                                "legacy": {
+                                    "can_dm": true,
+                                    "can_media_tag": true,
+                                    "created_at": "Mon Jun 20 13:46:07 +0000 2016",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "~ We Care | We Share ~",
+                                    "entities": {
+                                        "description": {
+                                            "urls": []
+                                        },
+                                        "url": {
+                                            "urls": [
+                                                {
+                                                    "display_url": "tigerzplace.com",
+                                                    "expanded_url": "https://www.tigerzplace.com",
+                                                    "url": "https://t.co/AmhGO85Ehq",
+                                                    "indices": [
+                                                        0,
+                                                        23
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 52,
+                                    "followers_count": 78,
+                                    "friends_count": 80,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 0,
+                                    "location": "",
+                                    "media_count": 253,
+                                    "name": "Tigerzplace",
+                                    "needs_phone_verification": false,
+                                    "normal_followers_count": 78,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/744889063275118592/1540325716",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/780866139991728128/USY6DcJK_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "Tigerzplace",
+                                    "statuses_count": 306,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/AmhGO85Ehq",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                },
+                                "tipjar_settings": {}
+                            }
+                        }
+                    },
+                    "unmention_data": {},
+                    "edit_control": {
+                        "edit_tweet_ids": [
+                            "1792152083472523667"
+                        ],
+                        "editable_until_msecs": "1716120927000",
+                        "is_edit_eligible": false,
+                        "edits_remaining": "5"
+                    },
+                    "is_translatable": false,
+                    "views": {
+                        "state": "Enabled"
+                    },
+                    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                    "legacy": {
+                        "bookmark_count": 0,
+                        "bookmarked": false,
+                        "created_at": "Sun May 19 11:15:27 +0000 2024",
+                        "conversation_id_str": "1791891624349343980",
+                        "display_text_range": [
+                            11,
+                            18
+                        ],
+                        "entities": {
+                            "hashtags": [],
+                            "symbols": [],
+                            "timestamps": [],
+                            "urls": [],
+                            "user_mentions": [
+                                {
+                                    "id_str": "3096147528",
+                                    "name": "Dom Lucre | Breaker of Narratives",
+                                    "screen_name": "dom_lucre",
+                                    "indices": [
+                                        0,
+                                        10
+                                    ]
+                                }
+                            ]
+                        },
+                        "favorite_count": 0,
+                        "favorited": false,
+                        "full_text": "@dom_lucre Testing",
+                        "in_reply_to_screen_name": "dom_lucre",
+                        "in_reply_to_status_id_str": "1791891624349343980",
+                        "in_reply_to_user_id_str": "3096147528",
+                        "is_quote_status": false,
+                        "lang": "en",
+                        "quote_count": 0,
+                        "reply_count": 0,
+                        "retweet_count": 0,
+                        "retweeted": false,
+                        "user_id_str": "744889063275118592",
+                        "id_str": "1792152083472523667"
+                    },
+                    "unmention_info": {}
+                }
+            }
+        }
+    }
+}

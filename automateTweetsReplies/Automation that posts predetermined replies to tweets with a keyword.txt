@@ -1,0 +1,19 @@
+Automation that posts predetermined replies to tweets with a keyword
+Scripting & Automation Posted May 19, 2024
+
+
+I need an automation that can set one or more predetermined replies to top tweets within a certain time.
+In other words, this automation will allow me to choose the following settings:
+"Every [frequency] hours, search for top tweets with the word [keyword] that were tweeted within the past [time] hour, and reply [predetermined reply] to [number of replies] tweets. Every [functioning hours] hours it will stop for [pause hours] hours."
+I will not need to have technical knowhow to choose these. You will need to test this to make sure it works and mimicks human behavior so it doesn't get us banned. If this is something you can do, please give me a description of how it can be done and how we can avoid being banned for spam and start your message with dlk. lessMore/Less about
+
+
+Expert,
+Experience Level
+
+$50
+Fixed Price
+
+
+Skills and expertise
+Automation

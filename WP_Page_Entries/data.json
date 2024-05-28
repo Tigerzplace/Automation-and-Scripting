@@ -1,0 +1,46 @@
+
+
+[
+    {
+        "id": "1",
+        "country": "Scotland",
+        "website": "https:\/\/www.charitychoice.co.uk\/camphillfoundation",
+        "name": "Camphill Foundation UK & Ireland",
+        "description": "Camphill Foundation UK & Ireland, established in 1984, is a charity supporting Camphill communities, which have been working for more than seventy years to enable those with learning disabilities, developmental disorders, mental health problems and other special needs to fulfil their potential. There are over 60 Camphill Communities in the UK and Ireland, including schools, colleges and training centres for children and young people, working communities for adults in need of special care, and a centre for the elderly. Assistance is given to capital projects such as the building of new accommodation, developing new workshops and facilities, agricultural and horticultural activities, provision of new equipment and educational, training, cultural and social initiatives. Support is sometimes in the form of \ufffdseed\ufffd funding of grants up to \ufffd20,000 to help projects get started. Donations support much more than a single project because the Foundation more frequently provides loans, at a low rate of interest, and when the money is repaid it becomes available to help with another project, then another, and so on. PLEASE HELP US TO HELP OTHERS.",
+        "address": "c\/o Mr Simon Beckett | Newton Dee Village Community | Bieldside | Aberdeen",
+        "postcode": "AB15 9DX",
+        "email": "info@camphillfoundation.com",
+        "logo_url": "https:\/\/www.charitychoice.co.uk\/sites\/default\/files\/styles\/charity_title_logo_125x92\/public\/2021-03\/cc%20logo.jpg?itok=3z9I2wHS",
+        "phone": "",
+        "registration_number": "SC013057",
+        "charity_website": "http:\/\/www.camphillfoundation.com"
+    },
+    {
+        "id": "2",
+        "country": "England",
+        "website": "https:\/\/www.charitychoice.co.uk\/brake",
+        "name": "Brake",
+        "description": "Every day, 5 UK police officers have to break the news to 5 UK families, that their loved one has been killed in a road crash.\ufffd\ufffd A further 70 families every day learn that their loved one has been seriously injured, with many suffering brain damage, paralysis or limb loss.\ufffd \ufffd Brake is a national charity dedicated to preventing these road deaths and injuries from happening and also provides support for people bereaved or injured further to road crashes.\ufffd\ufffd Our work includes educating different road users ? from children and their parents, to young people learning to drive, to professional drivers ? through resources, training and events. \ufffd We co-ordinate national Road Safety Week each November (www.roadsafetyweek.org) and provide free community training on different road safety topics including young driver safety. \ufffd Our support division is the national provider of support for road crash victims ? helping families whose lives have been devastated by a sudden death or serious injury.\ufffd It offers emotional support and practical information through a helpline and through support literature that is handed out by police following every fatal road crash in the UK. For more information visit our website www.brake.org.uk or telephone Lisa Kendall on 01484 683294 or email lkendall@brake.org.uk \ufffd",
+        "address": "PO Box 548 | Huddersfield | West Yorkshire",
+        "postcode": "HD12XZ",
+        "email": "lkendall@brake.org.uk",
+        "logo_url": "https:\/\/www.charitychoice.co.uk\/sites\/default\/files\/styles\/charity_title_logo_125x92\/public\/2021-06\/Brake-logo_0.jpg?itok=IrkEWzKO",
+        "phone": "01484 559909",
+        "registration_number": "1093244",
+        "charity_website": "https:\/\/www.brake.org.uk"
+    },
+    {
+        "id": "3",
+        "country": "England",
+        "website": "https:\/\/www.charitychoice.co.uk\/starandgarter",
+        "name": "Royal Star & Garter",
+        "description": "The Royal Star & Garter Homes provides award-winning care for veterans and their partners who live with disability or dementia, in state-of-the-art Homes. The Charity was founded in 1916 to care for the severely injured young men returning from the battlegrounds of the First World War. Today, we provide specialist nursing, dementia and therapeutic care, together with a varied and engaging programme of activities, which enable residents to remain independent and enjoy life.",
+        "address": "15 Castle Mews | Hampton | Middlesex",
+        "postcode": "TW12 2NP",
+        "email": "general.enquiries@starandgarter.org",
+        "logo_url": "https:\/\/www.charitychoice.co.uk\/sites\/default\/files\/styles\/charity_title_logo_125x92\/public\/2021-06\/CharityChoiceLogo.jpg?itok=LU4Prr6X",
+        "phone": "020 8481 7676",
+        "registration_number": "210119",
+        "charity_website": "https:\/\/starandgarter.org"
+    }
+]

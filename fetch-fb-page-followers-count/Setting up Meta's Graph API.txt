@@ -1,0 +1,8 @@
+Setting up Meta's Graph API
+
+I need assistance to setup Graph API for a page I manage. Objective is me being able to fetch followers count, impressions, etc.
+
+Should be a quick job for someone who knows what they're doing.
+
+$10.00
+Fixed-price

@@ -1,0 +1,17 @@
+Enrich Linkedin URLs in bulk
+Lead Generation Posted May 28, 2024
+We are seeking a skilled developer to create a tool that can automatically convert a list of LinkedIn company URLs into their corresponding LinkedIn personal profile URLs. 
+This tool will be pivotal in streamlining our process of data enrichment by replacing or enriching company URLs 
+(e.g., https://www.linkedin.com/company/65402157/) with the direct LinkedIn profile URLs they redirect to (e.g., https://www.linkedin.com/in/name/).
+
+Responsibilities:
+Develop and implement a solution that can process bulk LinkedIn URLs, identifying and following redirects to personal profiles.
+Ensure the tool efficiently handles a large volume of URLs without compromising on speed or accuracy.
+
+Requirements:
+Proven experience in programming, specifically with APIs and handling web redirections.
+Strong understanding of LinkedIn’s platform and potential limitations regarding data access.
+Ability to design a tool with a simple, intuitive user interface.
+Excellent problem-solving skills and attention to detail
+
+$50
