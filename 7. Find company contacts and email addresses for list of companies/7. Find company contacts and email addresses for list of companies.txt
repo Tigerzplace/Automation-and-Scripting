@@ -1,0 +1,53 @@
+Find company contacts and email addresses for list of companies
+Lead Generation Posted Jun 4, 2024
+We have a list of approx. 4,000 companies in Google Sheets.
+
+We need someone to go through and find the best contact email address for each company listed. Ideally CEO's otherwise a General Manager or Senior representative.
+
+This data should be added to the Google Sheet
+
+We are looking to complete this task by June 21 
+
+
+Proposal
+
+Dear Client,
+
+I am pleased to propose my services for finding contact email addresses for approximately 4,000 companies listed in your Google Sheets document. With my expertise in web scraping and data automation, I can efficiently gather and verify the best contact emails using an automated script I have developed.
+
+Approach
+1. Automated Email Gathering:
+   - I have a script that automates the harvesting of emails based on company domains.
+   - First, we will modify your Google Sheet to include the domains for each company.
+
+2. Email Harvesting:
+   - Use my script to gather emails associated with the provided domains.
+
+3. Data Integration and Filtering:
+   - Populate your Google Sheets with the verified email addresses.
+   - Further filter the emails to keep the ones you need, prioritizing CEO and senior representative addresses.
+
+By leveraging automation and my expertise, I can deliver high-quality results promptly and efficiently. I look forward to contributing to your project’s success.
+
+Thank you for considering my proposal.
+
+Best regards,
+Nasir Ali
+
+
+Describe your recent experience with similar projects
+Recent Experience
+I have extensive experience with similar projects, including:
+
+X-Scraper Template: Developed a comprehensive Twitter scraping template that effectively searches for tweets, extracts user information, and handles data fetching interactively.
+LinkedIn Scraping: Created scripts to extract detailed profiles, including contact information, from LinkedIn for various clients.
+Automation Scripts: Implemented various automation scripts for data extraction and email harvesting, ensuring efficiency and accuracy in data gathering.
+
+DEMOS:
+Followers: https://youtu.be/AMVDFNoTeIc
+Extracting Usernames from 1000 Likes: https://youtu.be/N9n-1lGSxIY
+Fetching User Engagements from Tweets: https://youtu.be/gnqWLWCg2Dg
+Usernames Extraction Script - Milestone 1: https://youtu.be/o2OGTfgh1nA
+Testing Data Scraping Scripts: https://youtu.be/iU2hIiPPRaE
+Checking Accuracy of Scraped Data: https://youtu.be/9aJubdpp7BY
+Automating LinkedIn URL Redirection: Extracting Company Details: https://youtu.be/REH6ziL4In4
