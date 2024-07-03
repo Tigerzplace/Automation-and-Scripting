@@ -1,0 +1,41 @@
+Developer Needed to Filter X/Twitter Mentions
+
+
+Full Stack Development Posted Jun 23, 2024
+We are seeking for a developer to help us filter our mentions tab on X. Currently, when we go and check the "mentions" we see every single reply that we have on all of our posts, and we get thousands on the daily. We want to find a way to ONLY see the comments that someone tagged or mentioned us in, because we often get tagged and mentioned in quality content. Can you help us?
+
+$100
+
+So we want a way to pull any users who are tagging us with content like this. They all say it differently but here are some examples:
+
+https://x.com/Capta1n0/status/1517582219115741185
+https://x.com/ukipwebmaster/status/1805514661221015984
+https://x.com/Michael73259796/status/1805357147561086986
+https://x.com/shyguysmusings/status/1804004059973816406
+https://x.com/Victor_E_NYC/status/1803088997809275097
+https://x.com/nodeinanetwork/status/1802727963902808338
+https://x.com/OpenAyEye/status/1801829839604769207
+https://x.com/_maga_tron_/status/1801792984221946172
+https://x.com/BrandonFre37303/status/1786066365998309466
+https://x.com/txradioguy/status/1803923742650769833
+https://x.com/alanesque/status/1803528913571762664
+https://x.com/ACleverNickname/status/1802552389083308525 (quote tweet example)
+https://x.com/sectrarian/status/1800594050145472977
+
+
+Hello,
+
+Thank you for reaching out regarding your need to filter mentions on X/Twitter.
+
+I can definitely help you with this. I've previously worked on similar projects where I fetched user engagements of a tweet, so I understand the requirements well.
+
+To proceed, I'll need one of the following from you:
+
+A link to a specific post where all these mentions/replies are aggregated.
+Direct links to the comments/posts where you are mentioned.
+Please note that X/Twitter has certain limitations on data retrieval. For instance, if a post has 10,000 comments, the API may only allow retrieval of up to 1,000 comments. While I'm working on solutions to bypass such limits for another project, it's not currently possible. However, I will fetch the maximum possible data and filter it to include only the replies where your page is mentioned.
+
+Looking forward to your response with the necessary details.
+
+Best regards,
+Nasir Ali

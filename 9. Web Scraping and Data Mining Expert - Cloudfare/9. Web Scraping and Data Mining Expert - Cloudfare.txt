@@ -1,0 +1,19 @@
+Web Scraping and Data Mining Expert - Cloudfare
+Posted 1 hour ago
+Worldwide
+I need expert web scrapping developer. Need to scrap approx 7 million records of this website
+www carjam co nz
+
+I am attaching few VINs so you can try and also I am attaching final data format. Need someone who have experience with breaking cloudflare, selenium and other advance technique.
+If this goes ok, I have more work similar to this.
+
+PS: This website security is very high since it is behind cloudfare, so developers who don't have much experience with advance technique, don't try.
+
+Thanks !
+
+
+$800.00
+
+Fixed-price
+Intermediate
+I am looking for a mix of experience and value

@@ -1,0 +1,69 @@
+Seeking Developer with Existing Social Media Automation Technology
+Posted 5 minutes ago
+Worldwide
+Hello,
+
+I’m looking for a developer who already possesses existing automation technology for social media platforms. (As exemple siimilar to Waalaxy)
+
+Requirements:
+
+• Proven technology for social media automation.
+• Capability to integrate and customize the existing solution to fit our business needs.
+• preferably Experience with automation across multiple social media platforms (e.g., LinkedIn, Facebook, Instagram, X).
+
+More than 30 hrs/week
+Hourly
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$10.00
+
+-
+
+$50.00
+
+Hourly
+Project Type: Ongoing project
+Skills and Expertise
+Scripting & Automation Deliverables
+API Integration
+Automation
+Data Scraping
+Data Extraction
+Other
+Social Media Account Integration
+
+
+
+
+
+PROPOSAL:
+
+Hello,
+
+I am excited about your project and confident in my ability to deliver the required social media automation solutions. 
+
+With extensive experience in automation and bot development, I have created several tools that streamline automation on multiple platforms.
+
+Here are some highlights of my work:
+
+- X Scraper: Recently developed a powerful scraper for X (formerly Twitter), enabling efficient data extraction and automation.
+- Facebook Automation: Created tools like Facebook Auto Poster and Auto Reporter to automate content posting and reporting tasks.
+- LinkedIn Automation: Developed solutions such as enriching LinkedIn URLs and extracting company details, as showcased in this [video](https://youtu.be/REH6ziL4In4).
+- Twitter Automation: Built the X Auto Liker and a Twitter Auto Liker Chrome Extension to automatically like tweets, demonstrated [here](https://youtu.be/TJiiLUviU9A).
+
+You can check out some of my work on YouTube:
+- [Extracting Usernames from 1000 Likes](https://youtu.be/N9n-1lGSxIY)
+- [Fetching User Engagements from Tweets](https://youtu.be/gnqWLWCg2Dg)
+- [Usernames Extraction Script - Milestone 1](https://youtu.be/o2OGTfgh1nA)
+- [Testing Data Scraping Scripts](https://youtu.be/iU2hIiPPRaE)
+- [Checking Accuracy of Scraped Data](https://youtu.be/9aJubdpp7BY)
+- [Facebook Auto Poster](https://www.youtube.com/watch?v=Xx3vaqMPdVs)
+
+I have experience with automation across LinkedIn, Facebook, Instagram, and X.
+
+Let's discuss your requirements to ensure we create a solution that meets your expectations. I typically handle one-time projects, but your task aligns perfectly with my expertise, so thought to give it a try. 
+
+Looking forward to collaborating with you.
+
+Best regards,
+Nasir Ali
